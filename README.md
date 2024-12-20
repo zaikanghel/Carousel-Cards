@@ -31,8 +31,11 @@ This project implements a robust and visually appealing carousel card component 
 
 Want to see the carousel in action? Check out these videos:
 
-* **YouTube:** https://youtube.com/shorts/glNCLIQpYJA?si=fOcPS0CsC5cBYdy-
-* **Facebook:** https://m.facebook.com/story.php?story_fbid=pfbid0pT8ymEjTgvShmxPq453vyW2fhbGP4PnjVSgxrAsLuahHe3Pq8GhEbm2kGnrepo5Ll&id=61557607041210&mibextid=ZbWKwL
+* **YouTube:**
+* <iframe width="560" height="315" src="https://youtube.com/shorts/glNCLIQpYJA?si=fOcPS0CsC5cBYdy-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* **Facebook:**
+* <iframe width="560" height="315" src="https://m.facebook.com/story.php?story_fbid=pfbid0pT8ymEjTgvShmxPq453vyW2fhbGP4PnjVSgxrAsLuahHe3Pq8GhEbm2kGnrepo5Ll&id=61557607041210&mibextid=ZbWKwL" title="Facebook video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Contact
